@@ -1,0 +1,61 @@
+{
+	"liquor": [{
+			"child": ["Kingfisher", "Haywards", "Royal Challenge", "Zingaro", "Thunderbolt", "Kalyani Black Label", "Khajuraho", "Maharaja"],
+			"group": "Beer"
+		},
+		{
+			"child": ["BUCHANANíS SCOTCH WHISKY", "RICH AND RARE CANADIAN WHISKY", "KESSLER AMERICAN WHISKEY", "WOODFORD RESERVE BOURBON WHISKEY", "DEWARíS SCOTCH WHISKY", "CANADIAN CLUB WHISKY",
+				"CANADIAN MIST WHISKY", "SOUTHERN COMFORT AMERICAN WHISKEY", "BULLEIT BOURBON WHISKEY", "WILD TURKEY BOURBON WHISKEY", "JOHNNIE WALKER SCOTCH WHISKY"
+			],
+			"group": "Brandy"
+		},
+		{
+			"child": ["Malibu", "Bacardi", "Havana Club", "Captain Morgan", "Hercules", "Mc Dowellís", "Jolly Roger", "Old Monk", "Contessa", "Old Port"],
+			"group": "Rum"
+		},
+		{
+			"child": ["GIN MARE", "HENDRICKíS", "LARIOS", "SEAGRAMíS", "BEEFEATER", "TANQUERAY", "BOMBAY SAPPHIRE", "GORDONíS"],
+			"group": "Gin"
+		},
+		{
+			"child": ["CANADIAN MIST WHISKY", "SOUTHERN COMFORT AMERICAN WHISKEY", "BULLEIT BOURBON WHISKEY", "WILD TURKEY BOURBON WHISKEY", "JOHNNIE WALKER SCOTCH WHISKY"],
+			"group": "whiskey"
+		},
+		{
+			"child": ["DON JULIO", "CALLE 23", "OCHO", "TAPATIO", "PATRON", "CABEZA", "JOSE CUERVO", "HERRADURA", "EL JIMADOR", "ESPOLON"],
+			"group": "tequila"
+		},
+		{
+			"child": ["SMIRNOFF", "ABSOLUT", "KHORTYTSA", "KHLIBNYI DAR", "ZUBROWKA", "PYAT OZER", "SVEDKA", "KRUPNIK"],
+			"group": "vodka"
+		},
+		{
+			"child": ["BACARDI SILVER RUM", "APPLETON WHITE RUM", "HAVANA CLUB ANEJO BLANCO RUM", "CRUZAN LIGHT RUM", "MOUNT GAY ECLIPSE SILVER RUM"],
+			"group": "lightrum"
+		},
+		{
+			"child": ["Connemara Peated Single Malt", "Greenore Single Grain Whiskey", "Green Spot & Yellow Spot Single Pot Still Whiskeys", "Jameson Irish Whiskey"],
+			"group": "irishwhiskey"
+		},
+		{
+			"child": ["Jim Beam Black", " Russellís Reserve Single Barrel Rye", "Bulleit Bourbon 10 Year Old"],
+			"group": "americanwhiskey"
+		},
+		{
+			"child": ["Bourbon Whiskey", "Straight Bourbon Whiskey", "Bottled in Bond"],
+			"group": "bourbonwhiskey"
+		},
+		{
+			"child": ["Journeyman Distillery", "Knob Creek"],
+			"group": "ryewhiskey"
+		},
+		{
+			"child": ["BARTENURA MOSCATO", "PAOLO SARACCO MOSCATO DíASTI"],
+			"group": "wines"
+		},
+		{
+			"child": ["Peach", "Pineapple", "Lychee", "Strawberry", "Mango", "Orange", "Blackberry"],
+			"group": "breezer"
+		}
+	]
+}
